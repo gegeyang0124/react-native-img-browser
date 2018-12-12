@@ -1,0 +1,45 @@
+{
+  "name": "react-native-img-browser",
+  "version": "1.0.0",
+  "description": "此组件基于react-native-photo-browser@0.4.0进行修改，主要修复其大量图片时，滑动动画不流畅；图片多时打开大图加载卡顿或加载不出来,将react-native-photo-browser中的FullScreenContainer文件中的ListView组件替换成FlatList组件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-img-browser.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "photo browser",
+    "image gallery",
+    "media gallery",
+    "ios",
+    "android",
+    "react-native-image-browser",
+    "image-browser",
+    "image",
+    "img",
+    "browser",
+    "浏览",
+    "图片"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-img-browser/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-img-browser#readme",
+  "dependencies": {
+    "prop-types": "15.5.10",
+    "react-native-progress-cus": "^1.0.0"
+  }
+}
